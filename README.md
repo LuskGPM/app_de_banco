@@ -23,26 +23,33 @@ Antes de começar, certifique-se de ter os seguintes itens instalados em sua má
 Siga os passos abaixo para configurar o projeto em sua máquina:
 
 1. **Clone o repositório**:
+
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
    cd seu-repositorio
 
 2. **Crie um ambiente virtual**:
+
    ```bash
    python -m venv venv
    source venv/bin/activate  # Linux/Mac
    venv\Scripts\activate  # Windows
    ```
+
 3. **Instale as dependências**:
+
    ```bash
    pip install -r requirements.txt
    ```
 
 4. **Execute o projeto**:
+
    ```bash
    python menu_principal.py
    ```
+
 ## Estrutura do Projeto
+
 ```plaintext
 .
 ├── acesso_conta.py          # Tela de acesso à conta
@@ -60,10 +67,13 @@ Siga os passos abaixo para configurar o projeto em sua máquina:
 │   └── gerais.py            # Funções utilitárias
 └── README.md                # Documentação do projeto
 ```
+
 ## Contribuição
+
 Se você deseja contribuir com o projeto, fique à vontade para abrir um pull request ou relatar problemas. Sua contribuição é muito bem-vinda!
 
 ## Contato
-Email: lucasgpm00@gmail.com
+
+Email: <lucasgpm00@gmail.com>
 GitHub: LuskGPM
-LinkedIn: https://www.linkedin.com/in/lucasmelo00gpm/
+LinkedIn: <https://www.linkedin.com/in/lucasmelo00gpm/>
